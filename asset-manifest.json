@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_basic_habit_tracker/static/css/main.8b73e418.chunk.css",
+    "main.js": "/react_basic_habit_tracker/static/js/main.a0a238a4.chunk.js",
+    "main.js.map": "/react_basic_habit_tracker/static/js/main.a0a238a4.chunk.js.map",
+    "runtime-main.js": "/react_basic_habit_tracker/static/js/runtime-main.929c0c59.js",
+    "runtime-main.js.map": "/react_basic_habit_tracker/static/js/runtime-main.929c0c59.js.map",
+    "static/js/2.6c6464d5.chunk.js": "/react_basic_habit_tracker/static/js/2.6c6464d5.chunk.js",
+    "static/js/2.6c6464d5.chunk.js.map": "/react_basic_habit_tracker/static/js/2.6c6464d5.chunk.js.map",
+    "index.html": "/react_basic_habit_tracker/index.html",
+    "precache-manifest.d07f056cfb9111d171f6c0d535289440.js": "/react_basic_habit_tracker/precache-manifest.d07f056cfb9111d171f6c0d535289440.js",
+    "service-worker.js": "/react_basic_habit_tracker/service-worker.js",
+    "static/css/main.8b73e418.chunk.css.map": "/react_basic_habit_tracker/static/css/main.8b73e418.chunk.css.map",
+    "static/js/2.6c6464d5.chunk.js.LICENSE.txt": "/react_basic_habit_tracker/static/js/2.6c6464d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.929c0c59.js",
+    "static/js/2.6c6464d5.chunk.js",
+    "static/css/main.8b73e418.chunk.css",
+    "static/js/main.a0a238a4.chunk.js"
+  ]
+}
