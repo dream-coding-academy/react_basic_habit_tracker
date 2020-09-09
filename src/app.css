@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+
+button {
+  outline: none;
+  border: 0;
+  cursor: pointer;
+}
+
+.navbar {
+  font-size: 2rem;
+  padding: 1em;
+  background-color: blanchedalmond;
+}
+
+.navbar-logo {
+  color: green;
+  margin-right: 0.5em;
+}
+
+.navbar-count {
+  display: inline-block;
+  text-align: center;
+  font-size: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  margin-left: 0.2em;
+  background-color: green;
+  color: white;
+  border-radius: 50%;
+}
+
+.habits {
+  padding: 0.5em;
+  padding-top: 2em;
+}
+
+.add-input {
+  font-size: 2rem;
+}
+
+.add-input {
+  margin-right: 0.2em;
+}
+
+.add-button {
+  height: 100%;
+  font-size: 1.5rem;
+  padding: 0.3em 0.5em;
+  background-color: green;
+  color: white;
+}
+
+.habit {
+  font-size: 2.5rem;
+  padding: 0.5em;
+  list-style: none;
+}
+
+.habit-count {
+  display: inline-block;
+  text-align: center;
+  font-size: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  margin-left: 0.2em;
+  margin-right: 0.5em;
+  background-color: darkseagreen;
+  color: white;
+  border-radius: 50%;
+}
+
+.habit-button {
+  font-size: 2.5rem;
+  margin: 0 0.1em;
+  background-color: transparent;
+}
+
+.habit-button:hover {
+  opacity: 0.8;
+}
+
+.habit-increase,
+.habit-decrease {
+  color: goldenrod;
+}
+
+.habit-delete {
+  font-size: 2rem;
+  color: darkred;
+}
+
+.habits-reset {
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  background-color: green;
+  color: white;
+}
