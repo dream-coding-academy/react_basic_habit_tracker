@@ -10,7 +10,7 @@ const SimpleHabit = () => {
 
   useEffect(() => {
     console.log(`mounted & updated!: ${count}`);
-  }, []);
+  }, [count]);
   return (
     <li className="habit">
       <span ref={spanRef} className="habit-name">
